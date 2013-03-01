@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//txomon/ticket/admin.py=utf-8
+encoding//txomon/ticket/api.py=utf-8
+encoding//txomon/ticket/batch.py=utf-8
+encoding//txomon/ticket/default_workflow.py=utf-8
+encoding//txomon/ticket/model.py=utf-8
+encoding//txomon/ticket/notification.py=utf-8
+encoding//txomon/ticket/query.py=utf-8
+encoding//txomon/ticket/report.py=utf-8
+encoding//txomon/ticket/roadmap.py=utf-8
+encoding//txomon/ticket/tests/functional.py=utf-8
+encoding//txomon/ticket/tests/notification.py=utf-8
+encoding//txomon/ticket/tests/report.py=utf-8
+encoding//txomon/ticket/tests/wikisyntax.py=utf-8
+encoding//txomon/ticket/web_ui.py=utf-8
+encoding/setup.py=utf-8
