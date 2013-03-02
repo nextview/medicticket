@@ -1,7 +1,5 @@
 Notes
 =====
-Allow users to only see tickets they are associated with.
-
 There are three main permissions for this plugin: ``TICKET_VIEW_REPORTER``,
 ``TICKET_VIEW_CC``, and ``TICKET_VIEW_OWNER``. ``TICKET_VIEW_SELF`` is an
 alias for all three of these.
